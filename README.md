@@ -16,7 +16,7 @@ for more information on how this file works. This file defines two services: The
  
 <h2>Create a Django project</h2>
 <p>Create the Django project by running the docker-compose run command as follows.<br/>
-<code>sudo docker-compose run web django-admin.py startproject composeexample .</code></p>
+<code>sudo docker-compose run web django-admin.py startproject abenthy .</code></p>
 
 <h2>Connect DataBase</h2>
 <p>n your project directory, edit the composeexample/settings.py file.</p>
